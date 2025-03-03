@@ -71,7 +71,6 @@ function reiniciar() {
     numerosAdicionados = []
     document.getElementById('boxparagrafo').innerHTML = ''
 
-
 }
 
 
